@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello, I'm Gimril</div>
+# <div align="center">👋 Hello, I'm C4rboncopier</div>
 
 <div align="center">
   <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Decorative Banner" width="800">
@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/gimril-lozarita-a4596a2a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://github.com/C4rboncopier" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="https://discord.com/users/314553665493139456" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
 <a href="https://www.facebook.com/Glozarita11" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
@@ -21,13 +22,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit about me...  
 
 ```javascript
-const gimril = {
+const C4rboncopier = {
   education: "3rd Year Computer Engineering @ Mapúa Malayan Colleges Mindanao",
   currentFocus: "Software and hardware development",
   passion: "Solving complex problems with efficient solutions",
   interests: ["Open-source", "New technologies", "Innovation"],
   roles: [
-    "Project Lead Web Developer @ MMCM",
     "Systems Development Head @ ICPEP SE",
     "Technical Committee Member @ ICPEP SE",
     "Capstone Mentor",
@@ -105,11 +105,18 @@ const gimril = {
 </div>
 
 ---
+<div align="center">
+
+  ![snake gif](https://github.com/C4rboncopier/C4rboncopier/blob/output/github-snake-dark.svg)
+  
+</div> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=C4rboncopier&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 <div align="center">
+
   <p><em>✨ Thanks for visiting my profile! Have a great day! ✨</em></p>
+  
 </div> 
