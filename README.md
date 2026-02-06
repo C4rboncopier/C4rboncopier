@@ -23,13 +23,14 @@
 
 ```javascript
 const C4rboncopier = {
-  education: "3rd Year Computer Engineering @ Mapúa Malayan Colleges Mindanao",
+  education: "4th Year Computer Engineering @ Mapúa Malayan Colleges Mindanao",
   currentFocus: "Software and hardware development",
   passion: "Solving complex problems with efficient solutions",
   interests: ["Open-source", "New technologies", "Innovation"],
   roles: [
-    "Systems Development Head @ ICPEP SE",
-    "Technical Committee Member @ ICPEP SE",
+    "External Vice President @ ICPEP SE 2025-2026",
+    "Systems Development Head @ ICPEP SE 2024-2025",
+    "Technical Committee Member @ ICPEP SE 2024-2025",
     "Capstone Mentor",
     "Freelance Developer"
   ]
